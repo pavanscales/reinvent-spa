@@ -1,0 +1,3 @@
+# emscripten-config
+export EMSCRIPTEN=/path/to/emscripten
+export PATH=$EMSCRIPTEN:$PATH
