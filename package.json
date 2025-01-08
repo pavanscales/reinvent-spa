@@ -1,0 +1,12 @@
+{
+    "name": "reinvent-spa",
+    "scripts": {
+      "build": "./scripts/build.sh",
+      "serve": "./scripts/serve.sh",
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0"
+    }
+  }
+  
