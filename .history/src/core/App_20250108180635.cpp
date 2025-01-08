@@ -4,10 +4,7 @@
   It is part of the stripe_api_integration_wrapper project.
   Licensed under MIT.
 */
-#include<iostream>
+#include "App.h"
 extern "C"{
-    void app_main(){
-        std::cout<<"Hello from webAssembly" <<std::endl;
-
-    }
+    void app_
 }
